@@ -1,0 +1,84 @@
+.utama{
+    margin-top: 60px;
+}
+.utama h4{
+    color:rgb(18, 155, 79);
+    font-size: 40pt;
+    text-align: center;
+}
+.container-card-about{
+    margin-top: 10px;
+    display:flex;
+}
+
+.container-card-about .kanan{
+    width: 50%;
+    height: 300px;
+    
+    
+    margin: 10px;
+    
+    
+    padding: 10px;
+    margin-left: 70px;
+    color:rgb(0, 0, 0);
+    text-align: justify;
+
+}
+
+
+.container-card-about .kiri{
+    
+    width: 50%;
+    height: 300px;
+    
+    margin-left: 70px;
+    margin-right: 70px;
+    
+    margin: 10px;
+    
+    
+    padding: 10px;
+    color:rgb(18, 155, 79);
+    text-align: center;
+
+}
+.container-card-about .kiri img{
+border-radius: 20px;
+}
+
+
+.container2{
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.container2 h3{
+    margin-top: 600px;
+    color:rgb(18, 155, 79);
+    font-size: 40pt;
+    text-align: center;
+}
+
+.container2 h4{
+    color:rgb(18, 155, 79);
+    font-size: 20pt;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.container2 p{
+    text-align: justify;
+}
+.frame {
+    margin-left: 100px;
+}
+
+.frame table tr td img{
+    margin-top: 10px;
+    margin-left: 5s0px;
+   
+}
+

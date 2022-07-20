@@ -1,0 +1,184 @@
+
+
+.container1{
+    
+    margin-top: 80px;
+    position: relative;
+   
+  
+}
+
+h1{
+    font-size: 40pt;
+    color:rgb(24, 179, 75);
+    position: absolute;
+    left: 120px;
+	top: 200px;
+}
+
+h3{
+    
+    color:rgb(255, 255, 255);
+    font-size: 18pt;
+    position: absolute;
+    left: 120px;
+	top: 300px;
+    margin-right: 100px;
+}
+
+.container1 h3{
+    color:white;
+}
+
+
+.kotak1{
+    margin-top:70px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.kotak1 h3{
+    color:blue;
+}
+
+h2{
+    font-size: 40pt;
+    color:rgb(24, 179, 75);
+    text-align: center;
+}
+
+
+.our-mission{
+    margin-top: 70px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+.bg2{
+    margin-right: 70px;
+    margin-left: 70px;
+    
+    
+}
+
+.bg2  img{ 
+    border-radius: 10px;
+
+}
+
+h6{
+    text-align: center;
+    font-size: 40pt;
+    color:rgb(18, 155, 79);
+}
+
+.our-mission h6{
+    color:rgb(4, 196, 45);
+}
+
+
+.bg_green{
+    margin-top: 70px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+
+.bg_green  img{ 
+    border-radius: 10px;
+}
+
+
+.bawah {
+    background:#571212;
+}
+
+ul {
+    margin:0;padding:0;
+}
+ul li {
+    padding: 2em;
+    color:#E98A8A;
+}
+ul li span {
+    display:block;
+    font-size:1.4em;
+    margin-bottom:1em;
+    color: white;
+}
+
+button{
+    border-radius: 10px;
+    background-color: rgb(11, 218, 28);
+
+}
+button:hover{
+    background-color: coral;
+}
+
+
+
+.container-card{
+    display:flex;
+}
+
+.container-card .kanan{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgba(88, 85, 85, 0.8);
+    padding: 10px;
+    margin-left: 70px;
+    color:rgb(18, 155, 79);
+    text-align: center;
+    
+
+
+}
+
+.container-card .tengah{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgba(88, 85, 85, 0.8);
+    padding: 10px;
+    color:rgb(18, 155, 79);
+    text-align: center;
+}
+
+.container-card .kiri{
+
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color:rgb(255, 255, 255);
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgba(88, 85, 85, 0.8);
+    padding: 10px;
+    color:rgb(18, 155, 79);
+    text-align: center;
+
+}
+
+.container-card .kiri img {
+    border-radius: 20px;
+
+}
+
+.container-card .tengah img {
+    border-radius: 20px;
+
+}
+
+.container-card .kanan img {
+    border-radius: 20px;
+
+}

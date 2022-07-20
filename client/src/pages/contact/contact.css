@@ -1,0 +1,89 @@
+.container-kontak{
+    margin-top:100px;
+    display:flex;
+}
+
+
+.container-kontak .detail_kontak{
+    width:30%;
+    height: 300px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    
+    padding: 10px;
+    margin-left: 70px;
+    color:rgb(18, 155, 79);
+    text-align: center;
+    text-align: justify;
+
+}
+
+
+.container-kontak  .detail_form{
+
+    width: 70%;
+    height: 100%;
+    padding: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color:rgb(255, 255, 255);
+    margin: 10px;
+   
+    padding: 10px;
+    color:rgb(18, 155, 79);
+    text-align: center;
+
+}
+
+.container-kontak  .detail_form #feedback-form {
+    width: 70%;
+    margin: 0 auto;
+    background-color: #1e6e39;
+    padding: 20px 50px 40px;
+    box-shadow: 1px 4px 10px 1px #aaa;
+    font-family: sans-serif;
+  }
+  
+  .container-kontak  .detail_form #feedback-form * {
+      box-sizing: border-box;
+  }
+  
+  .container-kontak  .detail_form #feedback-form h2{
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .container-kontak  .detail_form #feedback-form input {
+    margin-bottom: 15px;
+  }
+  
+  .container-kontak  .detail_form  #feedback-form input[type=text] {
+    display: block;
+    height: 50px;
+    padding: 6px 16px;
+    width: 100%;
+    border: none;
+    background-color: #e0f0e5;
+  }
+  
+  .container-kontak  .detail_form #feedback-form label {
+    color: rgb(30, 87, 60);
+    font-size: 0.8em;
+  }
+  
+  .container-kontak  .detail_form #feedback-form input[type=checkbox] {
+    float: left;
+  }
+  
+  .container-kontak  .detail_form #feedback-form input:not(:checked) + #feedback-phone {
+    height: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  
+  .container-kontak  .detail_form #feedback-form #feedback-phone {
+    transition: .3s;
+  }
+  
+  
